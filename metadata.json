@@ -1,0 +1,6 @@
+{
+  "name": "BULUKEETI PRO",
+  "description": "Concrete Blocks Production, Inventory & Sales Management System (Somali & English)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
